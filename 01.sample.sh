@@ -1,4 +1,5 @@
   ls -ltr
   pwd
   date
-  yum list install | grep -i vim
+  yum list all  | grep -i vim
+  yum list installed | grep vim
