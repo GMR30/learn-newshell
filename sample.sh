@@ -1,3 +1,0 @@
-  ls -ltr
-  pwd
-  date
