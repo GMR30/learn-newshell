@@ -1,2 +1,2 @@
     #for printing we have many options
-    echo "Hellow World"
+    echo Hellow World
