@@ -1,4 +1,4 @@
   ls -ltr
   pwd
   date
-  yum list install | grep java
+  yum list install | grep -i vim
